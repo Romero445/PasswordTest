@@ -1,0 +1,8 @@
+constants\Constants$Urls.class
+common\CommonAction.class
+common\Confing.class
+constants\Constants$TimeoutsVariables.class
+pages\registrationPage\RegistrationPage.class
+constants\Constants$TestData.class
+pages\base\BasePage.class
+constants\Constants.class
